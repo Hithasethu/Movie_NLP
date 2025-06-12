@@ -2,7 +2,7 @@
 
 Predict the top  most likely genres of a movie based on its **plot summary** using **Natural Language Processing (NLP)** and **Machine Learning**.
 
-![App Screenshot](path-to-screenshot.png) <!-- optional, replace with your image path -->
+![App Screenshot](https://github.com/Hithasethu/Movie_NLP/blob/main/Screenshot%202025-06-13%20012653.png) <!-- optional, replace with your image path -->
 
 ## 🚀 Live App
 
