@@ -1,0 +1,16 @@
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+# For background image handling
+Pillow
+
+# If you preprocess text (e.g., stopwords, stemming)
+nltk
+
+# If you're using emoji mapping or fancy formatting
+emoji
+
+matplotlib
+seaborn
